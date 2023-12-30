@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag-map-Egypt.png/1200px-Flag-map-Egypt.png");
+    width:100%;
+    height:100%;
+}
+
+
+.GameCard{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    min-height: 14em;
+    width: 18em;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 25px;
+    transition: 0.7s ease;
+    margin-bottom: 50PX;
+}
